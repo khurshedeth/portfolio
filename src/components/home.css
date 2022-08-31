@@ -1,0 +1,57 @@
+.navbar{
+   
+    width: 100%;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    height: 10%;
+background-repeat: no-repeat;
+background-size: cover ;
+    }
+    .navbar img{
+        width: 10rem;
+        padding: 10px;
+        margin-top: 0%;
+        float: left;
+         
+
+    }
+
+
+ .navbar .middle{
+    display: flex;
+    color:white;
+    justify-content: space-around;
+    width: 100%;
+    border: 2px solid orange;
+height: 10%;
+background-color: rgb(104, 61, 155);
+border-radius: 10px;
+margin-top: 60px;
+float: left;
+ }
+.box a.{
+    display: flex;
+}
+body{
+    background: fixed;
+
+}
+
+
+
+   
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
